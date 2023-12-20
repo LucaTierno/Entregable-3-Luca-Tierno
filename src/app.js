@@ -1,8 +1,8 @@
-const ProductManager = require("./product-manager.js");
+const ProductManager = require("./product-manager");
 const express = require("express");
 const PUERTO = 8080;
 
-const manager = new ProductManager("./productos.json");
+const manager = new ProductManager("./src/productos.json");
 
 const app = express();
 
@@ -24,7 +24,7 @@ app.get("/products", async (req, res) => {
 
 app.get("/products/:id", async(req, res) => {
   try {
-    let pid = parseInt(req.params.pid);
+    let pid = parseInt(req.params.id);
     const buscado = await manager.getProductsById(pid)
     if(buscado) {
       return res.send(buscado)
