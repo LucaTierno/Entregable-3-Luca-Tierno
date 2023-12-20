@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Soga elastica",
+    "description": "Soga elastica 5 metros",
+    "price": 2000,
+    "img": "Sin imagen",
+    "code": "abc123",
+    "stock": 21
+  },
+  {
+    "id": 2,
+    "title": "Barra Olimpica",
+    "description": "20 Kilos",
+    "price": 50900,
+    "img": "Sin imagen",
+    "code": "abc124",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "Mancuerna",
+    "description": "20 Kilos",
+    "price": 10900,
+    "img": "Sin imagen",
+    "code": "abc125",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "Mancuerna",
+    "description": "15 Kilos",
+    "price": 50900,
+    "img": "Sin imagen",
+    "code": "abc126",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "title": "Mancuerna",
+    "description": "5 Kilos",
+    "price": 5900,
+    "img": "Sin imagen",
+    "code": "abc127",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Barra Olimpica",
+    "description": "10 Kilos",
+    "price": 40900,
+    "img": "Sin imagen",
+    "code": "abc128",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "title": "Banco plano",
+    "description": "Cuero",
+    "price": 50900,
+    "img": "Sin imagen",
+    "code": "abc129",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "title": "Banco inclinado",
+    "description": "Cuero",
+    "price": 50900,
+    "img": "Sin imagen",
+    "code": "abc120",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "title": "Banco declinado",
+    "description": "Cuero",
+    "price": 50900,
+    "img": "Sin imagen",
+    "code": "abc130",
+    "stock": 5
+  },
+  {
+    "id": 10,
+    "title": "Maquina Sentadillas",
+    "description": "10 Metros",
+    "price": 60900,
+    "img": "Sin imagen",
+    "code": "abc131",
+    "stock": 10
+  }
+]
